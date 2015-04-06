@@ -1,0 +1,26 @@
+<?php
+return array(
+'Open Ticket' => 'Abrir Ticket',
+'Beginning Day' => 'Dia de Abertura',
+'Problems Description:' => 'Descrição Do Problema',
+'Task Assigned for:' => 'Tarefa Designada por:',
+'Task Assigned to:' => 'Tarefa Designada para:',
+'Company/Client:' => 'Empresa/Cliente:',
+'Attached`s Files' => 'Arquivos Anexados',
+'Create' => 'Criar',
+'Street' => 'Rua',
+'Number' => 'Número',
+'City' =>  'Cidade',
+ 'Complement' => 'Complemento',
+ 'CEP' => 'CEP',
+ 'Country' =>'País',
+ 'Client' => 'Cliente',
+ 'Phone' => 'Telefone',
+ 'Second Phone' => 'Telefone Secundário',
+ 'Address' => 'Endereço',
+ 'Administration Contact' => 'Contato Administrativo',
+ 'Technician Contact' => 'Contato Técnico',
+ 'First Access' => 'Primero Acesso',
+ 'Actived' => 'Ativado',
+);
+?>
